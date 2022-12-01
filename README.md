@@ -1,2 +1,3 @@
 # REPO_TEST_2
-"First test"
+"FIRST TEST"
+"SECOND TEST"
